@@ -1,0 +1,11 @@
+Model Information:
+* title:	some furniture
+* source:	https://sketchfab.com/3d-models/some-furniture-403f2737ce9e466092242169a813676d
+* author:	AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "some furniture" (https://sketchfab.com/3d-models/some-furniture-403f2737ce9e466092242169a813676d) by AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
