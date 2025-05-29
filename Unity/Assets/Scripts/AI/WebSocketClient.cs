@@ -76,8 +76,8 @@ public class WebSocketClient : MonoBehaviour
         Debug.Log("Connecting to OpenAI");
 
         
-       // _clientWebSocket.Options.SetRequestHeader("Authorization", "Bearer " + Environment.GetEnvironmentVariable("OPENAI_API_KEY")); sk-5DKTIE0x3IJLsRDbb_K3xA1cFVSPC9wL-48E1wqzikT3BlbkFJFYH2VXtiEgt0ZxGNXni0P4XDZl42MFwOLulZp7bx4A
-        _clientWebSocket.Options.SetRequestHeader("Authorization", "Bearer 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");
+       // _clientWebSocket.Options.SetRequestHeader("Authorization", "Bearer " + Environment.GetEnvironmentVariable("OPENAI_API_KEY")); 
+        _clientWebSocket.Options.SetRequestHeader("Authorization", "Bearer sk-proj-h-");
         
         _clientWebSocket.Options.SetRequestHeader("OpenAI-Beta", "realtime=v1");
 
